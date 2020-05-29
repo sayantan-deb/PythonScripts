@@ -1,0 +1,8 @@
+
+A=10
+B=10.50
+C='ABC'
+
+print("Datatype of A:",type(A));
+print("Datatype of B:",type(B));
+print("Datatype of C:",type(C));
