@@ -1,0 +1,7 @@
+A=B=C=100;
+D='EARTH';
+
+print ("Value of A:",A);
+print ("Value of B:",B);
+print ("Value of C:",C);
+print ("Value of D:",D);
