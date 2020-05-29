@@ -1,0 +1,5 @@
+
+list=['B','E','C','A','D']
+
+print(list);
+print("3rd element of the list is: ",list[2]);
