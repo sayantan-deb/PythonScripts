@@ -1,0 +1,11 @@
+def isPalingdrome(s):
+    string=""
+    for i in s:
+        string=i+string
+    if s!=string:
+        print("Not a Palingdrome")
+    else:
+        print("Palingdrome")
+
+a=input("Enter a string: ")
+isPalingdrome(a)
